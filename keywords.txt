@@ -1,0 +1,38 @@
+#######################################
+# Syntax Coloring Map For Timer Library
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+EWC_IR	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin		KEYWORD2
+setSign		KEYWORD2
+setDebug	KEYWORD2
+setFilePath	KEYWORD2
+printRaw	KEYWORD2
+cleardata	KEYWORD2
+beeStart	KEYWORD2
+beeEnd		KEYWORD2
+saveScanRaw	KEYWORD2
+sendIrRaw	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+EWC_IR	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+RECV_PIN	LITERAL1
+SEND_PIN	LITERAL1
+SIGN_PIN	LITERAL1
